@@ -5,7 +5,7 @@ Projeto prático de Business Intelligence focado na análise de desempenho do SA
 ---
 
 ## Preview do Painel
-<img width="1387" height="800" alt="image" src="https://github.com/user-attachments/assets/8dd86143-23c2-4a19-b630-67546dae0a35" />
+<img width="1340" height="750" alt="image" src="https://github.com/user-attachments/assets/aecc6533-50b3-41e7-ae2f-e41eaa7d4c55" />
 
 ---
 
