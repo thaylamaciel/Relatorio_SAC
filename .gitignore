@@ -1,0 +1,5 @@
+*.pbix.PerformanceLog
+*.tmp
+~$*.xlsx
+Thumbs.db
+.DS_Store
